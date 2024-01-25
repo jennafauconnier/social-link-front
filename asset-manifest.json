@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jennafauconnier/social-link-front/static/css/main.e6c13ad2.css",
+    "main.js": "/jennafauconnier/social-link-front/static/js/main.59455a43.js",
+    "static/js/787.881ef141.chunk.js": "/jennafauconnier/social-link-front/static/js/787.881ef141.chunk.js",
+    "index.html": "/jennafauconnier/social-link-front/index.html",
+    "main.e6c13ad2.css.map": "/jennafauconnier/social-link-front/static/css/main.e6c13ad2.css.map",
+    "main.59455a43.js.map": "/jennafauconnier/social-link-front/static/js/main.59455a43.js.map",
+    "787.881ef141.chunk.js.map": "/jennafauconnier/social-link-front/static/js/787.881ef141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59455a43.js"
+  ]
+}
