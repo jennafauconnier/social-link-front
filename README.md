@@ -41,8 +41,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/jennafauconnier/social-link-front)
+- Live Site URL: [Not really the live one](https://jennafauconnier.github.io/social-link-front/)
 
 ## My process
 
